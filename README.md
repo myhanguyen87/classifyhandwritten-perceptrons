@@ -1,0 +1,2 @@
+# classifyhandwritten-perceptrons
+This notebook is focused on exploring the application of Neural Networks in classifying images of handwritten digits from the MNIST dataset. Three types of Neural Networks are used for this task: One-layer Perceptrons (OLP), Multi-layer Perceptron (MLP), and Convolutional Perceptron (CNN). Our goal is to compare their performances in order to understand the difference between the three architectures and to determine the suitable architecture for this task.
